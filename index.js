@@ -218,7 +218,7 @@ async function addTheseHTML(newMember){
         </div>`
         }
         appendThem(data);
-    }catch(error){
+    }catch(error){cl
         console.log(error);
     }
     
